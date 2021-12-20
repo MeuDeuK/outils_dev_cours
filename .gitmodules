@@ -1,0 +1,3 @@
+[submodule "assets/jquery"]
+	path = assets/jquery
+	url = git@github.com:MeuDeuK/jquery.git
